@@ -12,8 +12,8 @@ Siri Bhoovalay Chakra Analysis - Dev Environment
   - Delete all existing files prior to publish - ticked
   - Publish
 - In Published wwwroot folder
-  - edit index.html `<head> <base href="/{xyz}/"/>` - `xyz` should be github repo name e.g. Chakra or Chakra-Dev
+  - edit index.html `<head> <base href="/{xyz}/"/>` - `xyz` should be github repo name i.e. `Chakra-Dev`
   - create a copy of edited index.html & rename to 404.html in same folder
   - add a blank `.nojekyll` file to root
-- Push to gh-pages branch for static web app deployment.
+- Push to `master` branch for static web app deployment.
 - Github Actions deploy this automatically to https://vj-jain.github.io/Chakra-Dev

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MKKSB",
   "resources": {
-    "hash": "sha256-SxDR31GrRsfCJZBjIrp0eLxti5BY/kxlM9e9N6uPfjg=",
+    "hash": "sha256-AN/GieRHelLpxpB12KAC+YY/c0TVJsbYtK/wGkcGVRY=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-0n84VN25UVbouAlJtHCByRGiAavbGh0s0nX3sJcRjVs="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.js": "sha256-nam8JTYKjhMKOTg6+FlihYP6JpWPGe3jjM9fiUFWzhY="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-OgKMthM3CfW+H/4629JJhLaDV8nhLUhc2zrlshdPHPc="
+      "dotnet.native.wasm": "sha256-emGNrhcilmoy6z4aOR5Q322vuSYtX9u2KKS/GH2QM/w="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -35,7 +35,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-xyqqv0SMCahnrOs+p5QYDHoh/BAYlbNtyjTTpqmRW/g=",
       "Microsoft.JSInterop.wasm": "sha256-QMNQ7GDxMD/PdCdmh06SwSLAOt4ziNLs5APVGynvJ1Y=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-DwdIH1ydDREMe+gT+NPaWxTUdDh/bzbriY2XoySGIo4=",
-      "MKKSB.wasm": "sha256-FQKjzgdzxAsJc7HflrxwRBJCFlWFyYxEBAVe9XDb0Rk=",
+      "MKKSB.wasm": "sha256-4NhQM+dU2c7kYBgpDn1ypPlUF9HCuj4ildswlsHJZEE=",
       "Newtonsoft.Json.wasm": "sha256-GlXMWKvDs45M2pACoR3Y4Qh8mcrOZGljqmvJY+6JZ5s=",
       "Radzen.Blazor.wasm": "sha256-U0rLopQU2egcAHXwDohz+np8aUVxd2V2U/PEx9yKvnY=",
       "System.Collections.Concurrent.wasm": "sha256-RqLI+8HbowUXDfxqVS9UhwDpFyJChk2G+IlU4m4llo8=",
